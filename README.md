@@ -1,6 +1,6 @@
 ## **README.md Descontraído para o seu Projeto de Busca em Agronegócio**
 
-### ** Descubra o Mundo do Agro com um Click!**
+### ** Descubra o Mundo do Agro com um Click!** - Imersão Deve com Google Gemini - Alura
 
 **O que essa aplicação faz?**
 
